@@ -18,8 +18,8 @@ The object of the game is to reach the water without colliding with the big mean
 
   
 ### Screenshots
-![GamePlay.png](Classic-Arcade-Game/images/GamePlay.png)
-![GameOver.png](Classic-Arcade-Game/images/GameOver.png)
+![GamePlay.png](https://github.com/sumanhakki/Classic-Arcade-Game/images/GamePlay.png)
+![GameOver.png](https://github.com/sumanhakki/Classic-Arcade-Game/images/GameOver.png)
 
 
 
