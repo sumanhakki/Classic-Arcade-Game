@@ -1,6 +1,32 @@
-frontend-nanodegree-arcade-game
-===============================
+# Classic Arcade Game
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+### Project Objective
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+This is an Udacity project designed to practice object-oriented programming
+### How to load the game
+  - Copy the repo and open the index.html
+ 
+
+### How to play the game
+The object of the game is to reach the water without colliding with the big mean bugs.
+  - move up, down, right, left by using the arrow keys
+  - player earns 100 points each time a player reaches the water
+  - keep repeating this in order to rack-up points
+  - each player has 3 lives
+  - player with the highest score wins
+                                          
+
+  
+### Screenshots
+![GamePlay.png](Classic-Arcade-Game/images/GamePlay.png)
+![GameOver.png](Classic-Arcade-Game/images/GameOver.png)
+
+
+
+### Special Features
+  - The game scoreboard keeps tallying points and lives  
+  - When the game ends, a message appears indicating that the game is over, and a final score
+  - While the game is still active in the background player is no longer visible when the gameOver overlay is diplayed
+  - Player starts game over by clicking on Restart button
+
+
