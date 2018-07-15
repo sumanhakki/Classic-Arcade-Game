@@ -29,4 +29,7 @@ The object of the game is to reach the water without colliding with the big mean
   - While the game is still active in the background player is no longer visible when the gameOver overlay is diplayed
   - Player starts game over by clicking on Restart button
 
+### License
+  - No license needed
+
 
