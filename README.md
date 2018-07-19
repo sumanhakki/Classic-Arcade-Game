@@ -9,11 +9,11 @@ This is an Udacity project designed to practice object-oriented programming
 
 ### How to play the game
 The object of the game is to reach the water without colliding with the big mean bugs.
-  - move up, down, right, left by using the arrow keys
-  - player earns 100 points each time a player reaches the water
-  - keep repeating this in order to rack-up points
-  - each player has 3 lives
-  - player with the highest score wins
+  - Move up, down, right, left by using the arrow keys
+  - Player earns 100 points each time a player reaches the water
+  - Keep repeating this in order to rack-up points
+  - Each player has 3 lives
+  - Player with the highest score wins
                                           
 
   
